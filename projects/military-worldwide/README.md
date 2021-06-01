@@ -4,7 +4,7 @@ Analyze the military sizes of countries around the world. See in what regions an
 
 ## Methods
 
-* 'Military Data .xlsx' was obtained at 'https://www.kaggle.com/rishidamarla/military-presence-worldwide'. Its owner acknowledges that it got this dataset from 'https://data.world/stuartltinsley/military-dataset'.
+* 'Military Data .xlsx' was obtained at 'https://www.kaggle.com/rishidamarla/military-presence-worldwide'. Its owner acknowledges that they got this dataset from 'https://data.world/stuartltinsley/military-dataset'.
 * 'country_list.txt' was obtained at https://www.nationsonline.org/oneworld/countries_of_the_world.htm
 * For verification purposes, .pdf files (snapshots) are included in the repository for the above sources
 
