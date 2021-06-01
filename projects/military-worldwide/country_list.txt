@@ -1,0 +1,286 @@
+Afghanistan	Afghanistan	Afghanestan	South-Central Asia
+Albania	Albanie	Shqiperia	Balkan Peninsula
+Algeria	Algérie	Al Jaza'ir	Northern Africa
+American Samoa	Samoa Américaines	American Samoa	Polynesia, Oceania
+Andorra	Andorre	Andorra	Southern Europe
+Angola	Angola	Angola	Central Africa
+Anguilla	Anguilla	Anguilla	Leeward Islands, Caribbean
+ice	Antarctica	Antarctique	Antarctica	Antarctica
+Antigua and Barbuda	Antigua-et-Barbuda	Antigua and Barbuda	Leeward Islands, Caribbean
+Argentina	Argentine	Argentina	Southern South America
+Armenia	Arménie	Hayastan	Western Asia
+Aruba	Aruba	Aruba	Leeward Islands, Caribbean
+Australia	Australie	Australia	Australia/Oceania
+Austria	Autriche	Österreich	Western Europe
+Azerbaijan	Azerbaïdjan	Azarbaycan	Caucasus, Western Asia
+ 
+B
+Bahamas	Bahamas	Bahamas	Caribbean
+Bahrain	Bahreïn	Al Bahrayn	Arabian Peninsula, Middle East
+Bangladesh	Bangladesh	Bangladesh	South-Central Asia
+Barbados	Barbade	Barbados	Lesser Antilles, Caribbean
+Belarus	Bélarus	Byelarus	Eastern Europe
+Belgium	Belgique	Belgique, Belgie	Western Europe
+Belize	Belize	Belize	Central America
+Benin	Bénin	Benin	West Africa
+Bermuda	Bermudes	Bermuda	North America
+Bhutan	Bhoutan	Bhutan	South-Central Asia
+Bolivia	Bolivie	Bolivia	Central South America
+Bosnia and Herzegovina	Bosnie-Herzégovine	Bosna i Hercegovina	Southern Europe
+Botswana	Botswana	Botswana	Southern Africa
+Brazil	Brésil	Brasil	Central Eastern South America
+Brunei Darussalam	Brunéi Darussalam	Negara Brunei Darussalam	Southeast Asia
+Bulgaria	Bulgarie	Bulgaria	Balkan, Eastern Europe
+Burkina Faso	Burkina Faso	Burkina Faso	West Africa
+Burundi	Burundi	Burundi	Eastern Africa, African Great Lakes
+ 
+C
+Cambodia	Cambodge	Kampuchea	South-East Asia
+Cameroon	Cameroun	Cameroon, Cameroun	Central Africa
+Canada	Canada	Canada	North North America
+Cape Verde	Cap-Vert	Cabo Verde	West Africa
+Cayman Islands	Îles Caïmans	Cayman Islands	Greater Antilles, Caribbean
+Central African Republic	Centrafricaine, République	Republique Centrafricaine	Central Africa
+Chad	Tchad	Tchad	Central Africa
+Chile	Chili	Chile	Western South America
+China	Chine	Zhong Guo	Eastern Asia
+Christmas Island	Île Christmas	Christmas Island	Southeast Asia
+Cocos (Keeling) Islands	Îles Cocos (Keeling)	Cocos (Keeling) Islands	South-East Asia, Australia
+Colombia	Colombie	Colombia	North West South America
+Comoros	Comores	Komori	Eastern Africa
+Democratic Republic of the Congo (Kinshasa)	Congo, La République Démocratique du	République Démocratique du Congo	Central Africa
+Congo, Republic of (Brazzaville)	République du Congo	République du Congo	Central Africa
+Cook Islands	Îles Cook	Kūki 'Āirani	Polynesia, Oceania
+Costa Rica	Costa Rica	Costa Rica	Central America
+Côte D'ivoire (Ivory Coast)	Côte D'ivoire	Cote d'Ivoire	West Africa
+Croatia	Croatie	Hrvatska	Balkan Peninsula, Southern Europe
+Cuba	Cuba	Cuba	Greater Antilles, Caribbean
+Cyprus	Chypre	Kibris, Kypros	Mediterranean, Western Asia
+Czech Republic	République Tchèque	Ceska Republika	Eastern Europe
+ 
+D
+Denmark	Danemark	Danmark	Northern Europe
+Djibouti	Djibouti	Jabuuti, Gabuuti	Eastern Africa
+Dominica	Dominique	Dominica (Ouaitocoubouli)	Lesser Antilles, Caribbean
+Dominican Republic	Dominicaine, République	República Dominicana	Greater Antilles, Caribbean
+ 
+E
+East Timor (Timor-Leste)	Timor-Leste (Timor Oriental)	Timór Loro Sa’e	South-East Asia
+Ecuador	Équateur	Ecuador	North West South America
+Egypt	Égypte	Misr	Africa, Middle East
+El Salvador	El Salvador	El Salvador	Central America
+Equatorial Guinea	Guinée Équatoriale	Guinea Ecuatorial	Central Africa
+Eritrea	Érythrée	Hagärä Ertra, Tigrinya	Eastern Africa
+Estonia	Estonie	Eesti Vabariik	Northern Europe
+Ethiopia	Éthiopie	Ityop'iya	Eastern Africa
+ 
+F
+Falkland Islands	Falkland, Îles (Malvinas)	Islas Malvinas	Southern South America
+Faroe Islands	Îles Féroé	Føroyar	Northern Europe
+Fiji	Fidji	Matanitu ko Viti	Melanesia, Oceania
+Finland	Finlande	Suomi	Northern Europe
+France	France	France	Western Europe
+French Guiana	Guyane Française	Guyane	Northern South America
+French Polynesia	Polynésie Française	Polynésie Française	Polynesia, Oceania
+French Southern Territories	Terres Australes Françaises	Terres Australes et Antarctiques Françaises	Southern Indian Ocean
+ 
+G
+Gabon	Gabon	Gabon	Central Africa
+The Gambia	Gambie	The Gambia	West Africa
+Georgia	Géorgie	Sakartvelo	Caucasus
+Germany	Allemagne	Deutschland	Western Europe
+Ghana	Ghana	Ghana	West Africa
+Gibraltar	Gibraltar	Gibraltar	Southern Europe
+Greece	Grèce	Ellas or Ellada	Southern Europe
+Greenland	Groenland	Kalaallit Nunaat	North America
+Grenada	Grenade	Grenada	Lesser Antilles, Caribbean
+Guadeloupe	Guadeloupe	Guadeloupe (Gwadloup)	Lesser Antilles, Caribbean
+Guam	Guam	Guåhan	Micronesia, Oceania
+Guatemala	Guatemala	Guatemala	Central America
+Guinea	Guinée	Guinée	West Africa
+Guinea-Bissau	Guinée-Bissau	Guiné-Bissau	West Africa
+Guyana	Guyana	Guyana	North Eastern South America
+ 
+H
+ 	 
+Haiti	Haïti	Haiti	Greater Antilles, Caribbean
+Holy See	Saint-Siège (État de la Cité du Vatican)	Status Civitatis Vaticanæ	Southern Europe within Italy
+Honduras	Honduras	Honduras	Central America
+Hong Kong	Hong-Kong	Xianggang	Eastern Asia
+Hungary	Hongrie	Magyarorszag	Eastern Europe
+ 
+I
+Iceland	Islande	Ísland	Northern Europe
+India	Inde	Bhārat	South-Central Asia
+Indonesia	Indonésie	Indonesia	Maritime South-East Asia
+Iran (Islamic Republic of)	République Islamique d' Iran	Īrān	South-Central Asia
+Iraq	Iraq	al-ʿIrāq	Middle East, Western Asia
+Ireland	Irlande	Éire	Northern Europe
+Israel	Israël	Jisra'el	Middle East, Western Asia
+Italy	Italie	Italia	Southern Europe
+Ivory Coast	Côte D'ivoire	Cote d'Ivoire	West Africa
+ 
+J
+Jamaica	Jamaïque	Jamaica	Greater Antilles, Caribbean
+Japan	Japon	Nihon or Nippon	Eastern Asia
+Jordan	Jordanie	al-Urdunn	Middle East, Western Asia
+ 
+K
+Kazakhstan	Kazakstan	Qazaqstan	Central Asia
+Kenya	Kenya	Kenya	Eastern Africa
+Kiribati	Kiribati	Ribaberiki Kiribati	Micronesia, Oceania
+Korea, Democratic People's Rep. (North Korea)	Corée, République Populaire Démocratique de (Corée du Nord)	Chosŏn	Eastern Asia
+Korea, Republic of (South Korea)	Corée, République de (Corée du Sud)	Hanguk or Namhan	Eastern Asia
+Kosovo Flag	Kosovo	Kosovo	Albanian: : Kosova ou Kosovë,
+Serbian: Kosovo, Косово	Southern Europe
+Kuwait	Koweït	Al Kuwayt	Middle East, Western Asia
+Kyrgyzstan	Kirghizistan	Kyrgysstan	Central Asia
+ 
+L
+Lao, People's Democratic Republic	Lao, République Démocratique Populaire	Lao	South-East Asia
+Latvia	Lettonie	Latvija	Northern Europe
+Lebanon	Liban	Lubnan	Middle East, Western Asia
+Lesotho	Lesotho	Lesotho	Southern Africa
+Liberia	Libéria	Liberia	West Africa
+Libya	Libye	Libiyah	Northern Africa
+Liechtenstein	Liechtenstein	Liechtenstein	Western Europe
+Lithuania	Lituanie	Lietuva	Northern Europe
+Luxembourg	Luxembourg	Luxembourg, Letzebuerg	Western Europe
+ 
+M
+Macau	Macao	Aomen	Eastern Asia
+Madagascar	Madagascar	Madagasikara	Eastern Africa
+Malawi	Malawi	Malaŵi	Eastern Africa
+Malaysia	Malaisie	Malaysia	Southeast Asia
+Maldives	Maldives	Dhivehi Raajje	South-Central Asia
+Mali	Mali	Mali	West Africa
+Malta	Malte	Malta	Southern Europe
+Marshall Islands	Îles Marshall	Aolepān Aorōkin Ṃajeḷ	Micronesia, Oceania
+Martinique	Martinique	Martinique	Lesser Antilles, Caribbean
+Mauritania	Mauritanie	Muritaniyah	West Africa
+Mauritius	Île Maurice	Mauritius	Eastern Africa
+Mayotte	Mayotte	Mayotte	Eastern Africa
+Mexico	Mexique	Estados Unidos Mexicanos	North America
+Micronesia, Federal States of	États Fédérés de Micronésie	Micronesia	Micronesia, Oceania
+Moldova, Republic of	Moldova, République de	Moldova	Eastern Europe
+Monaco	Monaco	Monaco	Southern Europe
+Mongolia	Mongolie	Mongol Uls	Eastern Asia
+Montenegro	Monténégro	Crna Gora	Southern Europe
+Montserrat	Montserrat	Montserrat	Lesser Antilles, Caribbean
+Morocco	Maroc	Al Maghrib	Northern Africa
+Mozambique	Mozambique	Mocambique	Eastern Africa
+Myanmar, Burma	Myanmar, Birmanie	Myăma	Southeast Asia
+N
+Namibia	Namibie	Namibia	Southern Africa
+Nauru	Nauru	Nauru	Micronesia, Oceania
+Nepal	Népal	Nepal	South-Central Asia
+Netherlands	Pays-Bas	Nederland/Holland	Western Europe
+Netherlands Antilles	Antilles Néerlandaises	Nederlandse Antillen	Caribbean
+New Caledonia	Nouvelle-Calédonie	Nouvelle-Calédonie	Melanesia, Oceania
+New Zealand	Nouvelle-Zélande	Aotearoa	Oceania; Australia
+Nicaragua	Nicaragua	Nicaragua	Central America
+Niger	Niger	Niger	West Africa
+Nigeria	Nigéria	Nigeria	West Africa
+Niue	Nioué	Niue	Polynesia, Oceania
+North Macedonia	Macédoine du Nord	Severna Makedonija	Balkan Peninsula, Southern Europe
+Northern Mariana Islands	Îles Mariannes du Nord	Northern Mariana Islands	Micronesia, Oceania
+Norway	Norvège	Norge, Noreg	Northern Europe
+ 
+O
+Oman	Oman	Saltanat Uman	Middle East
+ 
+P
+Pakistan	Pakistan	Pakistan	South-Central Asia
+Palau	Palaos	Belau	Micronesia, Oceania
+Palestinian territories	Autorité Nationale Palestinienne	Filastin	Middle East, Western Asia
+Panama	Panama	Panama	Central America
+Papua New Guinea	Papouasie-Nouvelle-Guinée	Papua Niu Gini	Maritime Southeast Asia, Melanesia, Oceania
+Paraguay	Paraguay	Paraguay	Central South America
+Peru	Pérou	Peru	Western South America
+Philippines	Philippines	Pilipinas	Southeast Asia
+Pitcairn Island	Pitcairn	Pitcairn Island	Polynesia, Oceania
+Poland	Pologne	Polska	Eastern Europe
+Portugal	Portugal	Portugal	Southern Europe
+Puerto Rico	Porto Rico	Puerto Rico	Greater Antilles, Caribbean
+ 
+Q
+Qatar	Qatar	Dawlat Qatar	Arabian Peninsula, Middle East
+ 
+R
+Reunion Island	Ile de la Réunion	Ile de la Réunion	Eastern Africa
+Romania	Roumanie	Romania	Eastern Europe
+Russian Federation	Russie, Fédération de	Rossiya	Eastern Europe - Northern Asia
+Rwanda	Rwanda	Rwanda	Eastern Africa, African Great Lakes
+ 
+S
+Saint Kitts and Nevis	Saint-Kitts-et-Nevis	 	Lesser Antilles, Caribbean
+Saint Lucia	Sainte-Lucie	Saint Lucia	Lesser Antilles, Caribbean
+Saint Vincent and the Grenadines	Saint-Vincent-et-les Grenadines	 	Lesser Antilles, Caribbean
+Samoa	Samoa	Samoa	Polynesia, Oceania
+San Marino	Saint-Marin	San Marino	Southern Europe within Italy
+Sao Tome and Principe	Sao Tomé-et-Principe	São Tomé e Príncipe	Central Africa
+Saudi Arabia	Arabie Saoudite	Al Arabiyah as Suudiyah	Arabian Peninsula, Middle East
+Senegal	Sénégal	Senegal	West Africa
+Serbia	Serbie	Srbija	Southern Europe
+Seychelles	Seychelles	Seychelles	Eastern Africa
+Sierra Leone	Sierra Leone	Sierra Leone	West Africa
+Singapore	Singapour	Singapore	Southeast Asia
+Slovakia (Slovak Republic)	Slovaquie	Slovensko	Eastern Europe
+Slovenia	Slovénie	Slovenija	Southern Europe
+Solomon Islands	Salomon, Îles	Solomon Islands	Melanesia, Oceania
+Somalia	Somalie	Soomaaliya	Eastern Africa
+South Africa	Afrique du Sud	South Africa, Afrika-Borwa, Suid-Afrika,	Southern Africa
+South Sudan	Soudan du Sud	South Sudan	East-Central Africa
+Spain	Espagne	España	Southern Europe
+Sri Lanka	Sri Lanka	Sri Lanka	South-Central Asia
+Sudan	Soudan	As-Sudan	Northern Africa
+Suriname	Suriname	Suriname	North-Eastern South America
+Swaziland (Eswatini)	Swaziland	Eswatini	Southern Africa
+Sweden	Suède	Sverige	Northern Europe
+Switzerland	Suisse	Schweiz (German), Suisse (French), Svizzera (Italian)	Western Europe
+Syria, Syrian Arab Republic	Syrienne, République Arabe	Suriyah	Middle East, Western Asia
+ 
+T
+Taiwan (Republic of China)	Taïwan, Province de Chine	T'ai-wan	Eastern Asia
+Tajikistan	Tadjikistan	Tojikiston	Central Asia
+Tanzania; officially the United Republic of Tanzania	Tanzanie, République-Unie de	Jamhuri ya Muungano wa Tanzania	Eastern Africa
+Thailand	Thaïlande	Prathet Thai	South-East Asia
+Tibet	Tibet	Bod	South-Central Asia
+Timor-Leste (East Timor)	Timor-Leste (Timor Oriental)	Timór Loro Sa’e	Maritime South-East Asia
+Togo	Togo	Republique Togolaise	West Africa
+Tokelau	Tokelau	Tokelau	Oceania/Australia
+Tonga	Tonga	Tonga	Polynesia, Oceania
+Trinidad and Tobago	Trinité-et-Tobago	Trinidad, Tobago	Northern South America, Caribbean
+Tunisia	Tunisie	Tunis	Northern Africa
+Turkey	Turquie	Turkiye	Southeastern Europe, Western Asia
+Turkmenistan	Turkménistan	Turkmenistan	Central Asia
+Turks and Caicos Islands	Turks et Caïques, Îles	Turks and Caicos Islands	Caribbean, parts of the Bahamas island chain.
+Tuvalu	Tuvalu	Tuvalu	Polynesia, Oceania
+ 
+U
+Uganda	Ouganda	Uganda	Eastern Africa
+Ukraine	Ukraine	Ukrayina	Eastern Europe
+United Arab Emirates	Émirats Arabes Unis	Al Imarat al Arabiyah al Muttahidah	Arabian Peninsula, Middle East
+United Kingdom	Royaume-Uni	United Kingdom	Northern Europe
+United States	États-Unis	United States	North America
+Uruguay	Uruguay	Republica Oriental del Uruguay	Central East South America
+Uzbekistan	Ouzbékistan	Uzbekiston Respublikasi	Central Asia
+ 
+V
+Vanuatu	Vanuatu	Vanuatu	Melanesia, Oceania
+Vatican City State (Holy See)	Saint-Siège (État de la Cité du Vatican)	Status Civitatis Vaticanæ	Southern Europe within Italy
+Venezuela	Venezuela	Venezuela	Northern South America
+Vietnam	Viêt Nam	Việt Nam	South-East Asia
+Virgin Islands (British)	Îles Vierges Britanniques	 	Lesser Antilles, Caribbean
+Virgin Islands (U.S.)	Îles Vierges des États-Unis	Virgin Islands	Lesser Antilles, Caribbean
+ 
+W
+Wallis and Futuna Islands	Wallis et Futuna	Wallis et Futuna	Polynesia, Oceania
+Western Sahara	Sahara Occidental	Aṣ-Ṣaḥrā’ al-Gharbīyah	Northern Africa
+ 
+Y
+Yemen	Yémen	Al Yaman	Arabian Peninsula, Middle East
+ 
+Z
+Zambia	Zambie	Zambia	Eastern Africa
+Zimbabwe	Zimbabwe	Zimbabwe	Eastern Africa
